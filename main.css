@@ -55,11 +55,11 @@ section {
     align-items: center;
 }
 
-h2 {
+h1 {
     margin: 1rem 0;
 }
 
-h2:hover {
+h1:hover {
     color: hsl(47, 88%, 63%);
     cursor: pointer;
 }
